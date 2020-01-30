@@ -1,2 +1,2 @@
-# screenshot-generator
-Screenshot Generator Using Headless Browser With Node.Js 
+# snake-game-vue-interview
+Snake Game Using Vue.Js 
